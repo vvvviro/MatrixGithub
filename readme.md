@@ -2,4 +2,4 @@
 
 Serie de peliculas sobre Neo y sus amigos en las aventuras.
 
-**Victor Hernandez**, Git lover
+**Victor Hernandez**, Git & Matrix fan4life
